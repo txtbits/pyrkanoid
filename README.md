@@ -9,6 +9,10 @@ han sido realizados mediante la herramienta Adobe Photoshop CS5, por lo que son 
 
 Realizado durante el primer curso de *FPGS Desarrollo de Aplicaciones Web* en el *CPIFP Los Enlaces* (**Marzo 2012**).
 
+# Requisitos previos
+- [Python](https://www.python.org/downloads/)
+- [Pygame](http://pygame.org/download.shtml)
+
 # Instalación
 Ejecutable directo dentro de la carpeta del juego. No es necesaria la instalación de ningún módulo.
 
